@@ -48,12 +48,12 @@ All RFCs in this repository are:
 
 # Published RFC Index
 
-| RFC      | Title                                                    | Description                                                          |
-| -------- | -------------------------------------------------------- | -------------------------------------------------------------------- |
-| RFC 9500 | Device Incompatibility & Connectivity Avoidance (D1C4)   | Everything is your handset's fault                                   |
-| RFC 9501 | Seamless Latency & Optimized Wirelessness (SLOW)         | Signal problems caused by movement, buildings, physics and reality   |
-| RFC 9502 | Wireless Access Infrastructure Transfer (WAIT)           | Network issues improve automatically if subscriber waits long enough |
-| RFC 9503 | Enhanced Load Intelligence & Traffic Engineering (ELITE) | Congestion becomes a premium feature                                 |
+| RFC      | Title                                                    | Description                                                                   |
+| -------- | -------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| RFC 9500 | Device Incompatibility & Connectivity Avoidance (D1C4)   | Everything is your handset's fault                                            |
+| RFC 9501 | Seamless Latency & Optimized Wirelessness (SLOW)         | Mobility, buildings, walls, fans and physics are subscriber problems          |
+| RFC 9502 | Wireless Activation & Intelligent Throughput (WAIT)      | Most network issues improve automatically if the subscriber waits long enough |
+| RFC 9503 | Enhanced Load Intelligence & Traffic Engineering (ELITE) | Congestion becomes a premium feature                                          |
 
 ---
 
@@ -86,11 +86,11 @@ You are moving too much
         |
         v
 RFC 9502  WAIT
-Please wait while backend checks
+Please wait while optimization completes
         |
         v
 RFC 9503  ELITE
-Premium users receive premium congestion
+Premium congestion experience activated
         |
         v
 RFC 9504  ULTRA
@@ -123,6 +123,24 @@ DRAFT-RFC-9510-MAX.md
 
 ---
 
+# Change Management Policy
+
+Like your favourite TELCO updates its Terms & Conditions five minutes after announcing a revolutionary new service, this README may be modified at any time, without notice, explanation, version compatibility guarantees, or subscriber consent.
+
+Changes may include:
+
+* RFC renumbering
+* acronym expansion reinterpretation
+* reality reclassification
+* congestion monetization
+* additional AI references
+* premium experience enhancements
+* retrospective clarification of previously published statements
+
+Continued reading of this repository constitutes acceptance of all future modifications, including modifications that have not yet been written.
+
+---
+
 # Historical Inspiration
 
 This repository follows the long-standing engineering tradition of humorous,
@@ -142,6 +160,8 @@ Inspirations include:
 This repository is satire.
 
 Any resemblance to actual TELCO operational behavior is entirely coincidental, statistically inevitable, and repeatedly observed.
+
+No packets were intentionally harmed during the preparation of these RFCs.
 
 ---
 
