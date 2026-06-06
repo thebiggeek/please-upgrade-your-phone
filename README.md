@@ -1,5 +1,3 @@
-# README.md
-
 # please-upgrade-your-phone
 
 A collection of satire RFCs documenting the next evolutionary stage of TELCO and mobile connectivity experiences.
@@ -48,11 +46,14 @@ All RFCs in this repository are:
 
 ---
 
-# Initial RFC Index
+# Published RFC Index
 
-| RFC      | Title                                                  | Description                        |
-| -------- | ------------------------------------------------------ | ---------------------------------- |
-| RFC 9500 | Device Incompatibility & Connectivity Avoidance (D1C4) | Everything is your handset's fault |
+| RFC      | Title                                                    | Description                                                          |
+| -------- | -------------------------------------------------------- | -------------------------------------------------------------------- |
+| RFC 9500 | Device Incompatibility & Connectivity Avoidance (D1C4)   | Everything is your handset's fault                                   |
+| RFC 9501 | Seamless Latency & Optimized Wirelessness (SLOW)         | Signal problems caused by movement, buildings, physics and reality   |
+| RFC 9502 | Wireless Access Infrastructure Transfer (WAIT)           | Network issues improve automatically if subscriber waits long enough |
+| RFC 9503 | Enhanced Load Intelligence & Traffic Engineering (ELITE) | Congestion becomes a premium feature                                 |
 
 ---
 
@@ -60,9 +61,6 @@ All RFCs in this repository are:
 
 | RFC      | Title                                                                | Status |
 | -------- | -------------------------------------------------------------------- | ------ |
-| RFC 9501 | Seamless Latency & Optimized Wirelessness (SLOW)                     | Draft  |
-| RFC 9502 | Subscriber Management & Adaptive Routing Technology (SMART)          | Draft  |
-| RFC 9503 | Enhanced Load Intelligence & Traffic Engineering (ELITE)             | Draft  |
 | RFC 9504 | Unified Load Tiering & Routing Architecture (ULTRA)                  | Draft  |
 | RFC 9505 | Mobile AI-Guided Intelligent Connectivity (MAGIC)                    | Draft  |
 | RFC 9506 | Bandwidth Optimization & Operational Segmentation Technology (BOOST) | Draft  |
@@ -73,15 +71,47 @@ All RFCs in this repository are:
 
 ---
 
+# Subscriber Experience Lifecycle
+
+```text
+Subscriber reports issue
+        |
+        v
+RFC 9500  D1C4
+Everything is your phone's fault
+        |
+        v
+RFC 9501  SLOW
+You are moving too much
+        |
+        v
+RFC 9502  WAIT
+Please wait while backend checks
+        |
+        v
+RFC 9503  ELITE
+Premium users receive premium congestion
+        |
+        v
+RFC 9504  ULTRA
+Coming Soon
+        |
+        v
+Please upgrade your phone
+```
+
+---
+
 # Repository Structure
 
-```text id="q5fcf4"
+```text
 README.md
-RFC-9500-D1C4.md
 
-DRAFT-RFC-9501-SLOW.md
-DRAFT-RFC-9502-SMART.md
-DRAFT-RFC-9503-ELITE.md
+RFC-9500-D1C4.md
+RFC-9501-SLOW.md
+RFC-9502-WAIT.md
+RFC-9503-ELITE.md
+
 DRAFT-RFC-9504-ULTRA.md
 DRAFT-RFC-9505-MAGIC.md
 DRAFT-RFC-9506-BOOST.md
