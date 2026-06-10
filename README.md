@@ -54,6 +54,7 @@ All RFCs in this repository are:
 | RFC 9501 | Seamless Latency & Optimized Wirelessness (SLOW)         | Mobility, buildings, walls, fans and physics are subscriber problems          |
 | RFC 9502 | Wireless Activation & Intelligent Throughput (WAIT)      | Most network issues improve automatically if the subscriber waits long enough |
 | RFC 9503 | Enhanced Load Intelligence & Traffic Engineering (ELITE) | Congestion becomes a premium feature                                          |
+| RFC 9504 | Unified Load Tiering & Routing Architecture (ULTRA)      | Simultaneous voice and data identified as inefficient resource utilization    |
 
 ---
 
@@ -61,7 +62,6 @@ All RFCs in this repository are:
 
 | RFC      | Title                                                                | Status |
 | -------- | -------------------------------------------------------------------- | ------ |
-| RFC 9504 | Unified Load Tiering & Routing Architecture (ULTRA)                  | Draft  |
 | RFC 9505 | Mobile AI-Guided Intelligent Connectivity (MAGIC)                    | Draft  |
 | RFC 9506 | Bandwidth Optimization & Operational Segmentation Technology (BOOST) | Draft  |
 | RFC 9507 | Prioritized Routing & Intelligent Mobility Experience (PRIME)        | Draft  |
@@ -94,7 +94,10 @@ Premium congestion experience activated
         |
         v
 RFC 9504  ULTRA
-Coming Soon
+Voice and data simultaneously detected
+        |
+        v
+Functionality optimized away
         |
         v
 Please upgrade your phone
@@ -111,8 +114,8 @@ RFC-9500-D1C4.md
 RFC-9501-SLOW.md
 RFC-9502-WAIT.md
 RFC-9503-ELITE.md
+RFC-9504-ULTRA.md
 
-DRAFT-RFC-9504-ULTRA.md
 DRAFT-RFC-9505-MAGIC.md
 DRAFT-RFC-9506-BOOST.md
 DRAFT-RFC-9507-PRIME.md
@@ -125,7 +128,7 @@ DRAFT-RFC-9510-MAX.md
 
 # Change Management Policy
 
-Like your favourite TELCO updates its Terms & Conditions five minutes after announcing a revolutionary new service, this README may be modified at any time, without notice, explanation, version compatibility guarantees, or subscriber consent.
+Like your favourite TELCO updates its Terms & Conditions five minutes after announcing a revolutionary new service, this README may be modified at any time, without notice, explanation, version compatibility guarantees, subscriber consent, engineering review, regulatory oversight, or basic common sense.
 
 Changes may include:
 
@@ -135,7 +138,9 @@ Changes may include:
 * congestion monetization
 * additional AI references
 * premium experience enhancements
+* network slicing explanations
 * retrospective clarification of previously published statements
+* modification of statements that were modified previously
 
 Continued reading of this repository constitutes acceptance of all future modifications, including modifications that have not yet been written.
 
@@ -162,6 +167,8 @@ This repository is satire.
 Any resemblance to actual TELCO operational behavior is entirely coincidental, statistically inevitable, and repeatedly observed.
 
 No packets were intentionally harmed during the preparation of these RFCs.
+
+Meeting minutes may have been.
 
 ---
 
